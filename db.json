@@ -1,0 +1,1668 @@
+{
+  "mower": [
+    {
+      "id": "3709ff7e-1744-47ad-96bf-e2f91d39f7c6",
+      "state": "ON",
+      "name": "2 Mow",
+      "coordinates": {
+        "lat": 42.90777927120541,
+        "lng": -89.22242935366177
+      },
+      "crew": {
+        "name": "*0.1 Em Hill",
+        "contact": "Todd Kelley"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "PACK FAULT",
+      "total_battery_charge": 41,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 69,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 81,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 51,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 0,
+          "battery_state": "IN_USE",
+          "battery_alert": "PACK_FAULT"
+        },
+        {
+          "id": "5",
+          "battery_charge": 5,
+          "battery_state": "IN_USE",
+          "battery_alert": "HOT_COLD_PACK"
+        }
+      ],
+      "last_refresh": "2023-06-01T21:55:02Z",
+      "daily_cut_time": "",
+      "daily_run_time": "",
+      "daily_idle_time": "",
+      "contact_number": "555-867-5309",
+      "serial_number": "10digits10",
+      "software_version": "1.011",
+      "new_version_available": "1.2",
+      "next_update": "07/01/22",
+      "dtc_code": "00200",
+      "mower_speed": "5",
+      "mower_blade_speed": "LOW",
+      "blade_status": "ON",
+      "last_day_used": "01/01/2021",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "9f98681b-a4d7-44b1-8849-47f2b96928cd",
+      "state": "ON",
+      "name": "AMOW 1",
+      "coordinates": {
+        "lat": 42.79350258160876,
+        "lng": -89.63008619005714
+      },
+      "crew": {
+        "name": "e.hill1",
+        "contact": "Todd Kelley"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "HOT/COLD PACK",
+      "total_battery_charge": 60,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 100,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 80,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 60,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 40,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 20,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2020-05-01T09:02:58Z",
+      "daily_cut_time": "4:02",
+      "daily_run_time": "5:03",
+      "daily_idle_time": "01:01",
+      "contact_number": "867-5309",
+      "serial_number": "15digits15xxxxx",
+      "software_version": "1",
+      "new_version_available": "1.1",
+      "next_update": "7/12/22",
+      "dtc_code": "200",
+      "mower_speed": "4",
+      "mower_blade_speed": "",
+      "blade_status": "OFF",
+      "last_day_used": "09/01/2022",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "6c34391a-e9fa-432d-b8d0-ade7303ea7b5",
+      "state": "ALERT",
+      "name": "12345m",
+      "coordinates": {
+        "lat": 42.794204,
+        "lng": -89.6302843
+      },
+      "crew": {
+        "name": "67890",
+        "contact": "Todd Kelley"
+      },
+      "network_status": "OFFLINE",
+      "mower_icon": "",
+      "mower_status": "LOW BATTERY",
+      "total_battery_charge": 54,
+      "total_battery_state": "PLUGIN",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 67,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "2",
+          "battery_charge": 70,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "3",
+          "battery_charge": 92,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "4",
+          "battery_charge": 24,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "5",
+          "battery_charge": 15,
+          "battery_state": "CHARGING"
+        }
+      ],
+      "last_refresh": "2022-05-13T21:08:13Z",
+      "daily_cut_time": "2:05",
+      "daily_run_time": "02:10",
+      "daily_idle_time": "00:05",
+      "contact_number": "555-555-5555",
+      "serial_number": "A1b2C3d4E5",
+      "software_version": "3.0",
+      "new_version_available": "3.1",
+      "next_update": "12/01/22",
+      "dtc_code": "2",
+      "mower_speed": "",
+      "mower_blade_speed": "",
+      "blade_status": "OFF",
+      "last_day_used": "06/11/2022",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "1e7a078c-3b24-4f3f-bdff-be0be88dc4c4",
+      "state": "ON",
+      "name": "1.0 Mow",
+      "coordinates": {
+        "lat": 42.90768911644367,
+        "lng": -89.22239448494457
+      },
+      "crew": {
+        "name": "2. ED HILL",
+        "contact": "Todd Kelley"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "DRIVING",
+      "total_battery_charge": 7,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 1,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 7,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 6,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 0,
+          "battery_state": "IN_USE",
+          "battery_alert": "NO_PACK"
+        },
+        {
+          "id": "5",
+          "battery_charge": 8,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2022-05-15T04:46:47Z",
+      "daily_cut_time": "6:05",
+      "daily_run_time": "12:05",
+      "daily_idle_time": "06:00",
+      "contact_number": "123-456-7890",
+      "serial_number": "b2C3d4E5",
+      "software_version": "10.0",
+      "new_version_available": "10.1",
+      "next_update": "01/01/23",
+      "dtc_code": "1234",
+      "mower_speed": "2",
+      "mower_blade_speed": "HIGH",
+      "blade_status": "ON",
+      "last_day_used": "06/12/2022",
+      "mower_position": "Stand"
+    },
+    {
+      "id": "ad0b8ca8-b956-401a-93fb-6c817edab4bb",
+      "state": "OFF",
+      "name": "b.mow1",
+      "coordinates": {
+        "lat": 42.907690098737724,
+        "lng": -89.22241191930317
+      },
+      "crew": {
+        "name": "1 Em Hill",
+        "contact": "Todd Kelley"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "",
+      "total_battery_charge": 45,
+      "total_battery_state": "PLUGIN",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 9,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "2",
+          "battery_charge": 59,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "3",
+          "battery_charge": 60,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "4",
+          "battery_charge": 99,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "5",
+          "battery_charge": 1,
+          "battery_state": "CHARGING"
+        }
+      ],
+      "last_refresh": "2022-2-31T17:03:25Z",
+      "daily_cut_time": "7:05",
+      "daily_run_time": "10:08",
+      "daily_idle_time": "03:03",
+      "contact_number": "999-888-7777",
+      "serial_number": "C3d4E5",
+      "software_version": "123",
+      "new_version_available": "",
+      "next_update": "01/01/23",
+      "dtc_code": "9999",
+      "mower_speed": "",
+      "mower_blade_speed": "",
+      "blade_status": "OFF",
+      "last_day_used": "062/31/2022",
+      "mower_position": "Stand"
+    },
+    {
+      "id": "ad0b8ca8-b956-401a-93fb-6c817edab4be",
+      "state": "ON",
+      "name": "*0.1 Mow",
+      "coordinates": {
+        "lat": 41.9473825,
+        "lng": -87.6566094
+      },
+      "crew": {
+        "name": "1 Ed Hill",
+        "contact": "Todd Kelley"
+      },
+      "network_status": "OFFLINE",
+      "mower_icon": "",
+      "mower_status": "DRIVING",
+      "total_battery_charge": 100,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 100,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 99,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 98,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 97,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 0,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2024-02-29T05:03:25Z",
+      "daily_cut_time": "1:05",
+      "daily_run_time": "10:08",
+      "daily_idle_time": "09:03",
+      "contact_number": "847-721-5600",
+      "serial_number": "d4E5",
+      "software_version": "1",
+      "new_version_available": "",
+      "next_update": "02/29/24",
+      "dtc_code": "9999",
+      "mower_speed": "1",
+      "mower_blade_speed": "LOW",
+      "blade_status": "ON",
+      "last_day_used": "02/29/2024",
+      "mower_position": "Stand"
+    },
+    {
+      "id": "3709ff7e-1744-47ad-96bf-e2f91d39g8y7",
+      "state": "ON",
+      "name": "Mower 1",
+      "coordinates": {
+        "lat": 39.203688051408584,
+        "lng": -86.53162674676442
+      },
+      "crew": {
+        "name": "Crew 11",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "MOWING",
+      "total_battery_charge": 100,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 100,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 100,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 100,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 100,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 100,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2022-02-05T21:55:02Z",
+      "daily_cut_time": "4:22",
+      "daily_run_time": "05:32",
+      "daily_idle_time": "1:10",
+      "contact_number": "555-222-2222",
+      "serial_number": "a11f879788",
+      "software_version": "1.0",
+      "new_version_available": "2.0",
+      "next_update": "05/01/22",
+      "dtc_code": "",
+      "mower_speed": "5",
+      "mower_blade_speed": "LOW",
+      "blade_status": "ON",
+      "last_day_used": "07/14/2022",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "9f98681b-a4d7-44b1-8849-47f2b96938ol",
+      "state": "ON",
+      "name": "Mower 2",
+      "coordinates": {
+        "lat": 39.186791469102616,
+        "lng": -86.48570362729474
+      },
+      "crew": {
+        "name": "Crew 22",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "LOW BATTERY",
+      "total_battery_charge": 6,
+      "total_battery_state": "PLUGIN",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 6,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "2",
+          "battery_charge": 6,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "3",
+          "battery_charge": 6,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "4",
+          "battery_charge": 6,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "5",
+          "battery_charge": 0,
+          "battery_state": "",
+          "battery_alert": "NO_PACK"
+        }
+      ],
+      "last_refresh": "2022-05-21T08:04:02Z",
+      "daily_cut_time": "3:02",
+      "daily_run_time": "03:40",
+      "daily_idle_time": "0:38",
+      "contact_number": "555-222-2222",
+      "serial_number": "b41f877684",
+      "software_version": "2.1",
+      "new_version_available": "2.5",
+      "next_update": "10/01/22",
+      "dtc_code": "",
+      "mower_speed": "",
+      "mower_blade_speed": "",
+      "blade_status": "OFF",
+      "last_day_used": "07/14/2022",
+      "mower_position": "Stand"
+    },
+    {
+      "id": "6c34391a-e9fa-432d-b8d0-ade7303ez430",
+      "state": "ALERT",
+      "name": "Mower 3",
+      "coordinates": {
+        "lat": 39.18579957531963,
+        "lng": -86.4898373444275
+      },
+      "crew": {
+        "name": "Crew 33",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "PACK FAULT",
+      "total_battery_charge": 50,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 50,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 50,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 50,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 50,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 0,
+          "battery_state": "",
+          "battery_alert": "PACK_FAULT"
+        }
+      ],
+      "last_refresh": "2022-05-21T08:07:02Z",
+      "daily_cut_time": "4:08",
+      "daily_run_time": "05:04",
+      "daily_idle_time": "0:56",
+      "contact_number": "555-222-2222",
+      "serial_number": "c476j8y924",
+      "software_version": "2.1",
+      "new_version_available": "2.5",
+      "next_update": "10/01/22",
+      "dtc_code": "",
+      "mower_speed": "3",
+      "mower_blade_speed": "",
+      "blade_status": "OFF",
+      "last_day_used": "07/14/2022",
+      "mower_position": "Stand"
+    },
+    {
+      "id": "1e7a078c-3b24-4f3f-bdff-be0be88d6r55",
+      "state": "ON",
+      "name": "Mower 4",
+      "coordinates": {
+        "lat": 39.13160543811189,
+        "lng": -86.49145363051346
+      },
+      "crew": {
+        "name": "Crew 44",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "HOT/COLD PACK",
+      "total_battery_charge": 75,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 75,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 75,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 75,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 75,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 0,
+          "battery_state": "IN_USE",
+          "battery_alert": "HOT/COLD_PACK"
+        }
+      ],
+      "last_refresh": "2022-05-21T08:07:02Z",
+      "daily_cut_time": "9:11",
+      "daily_run_time": "9:31",
+      "daily_idle_time": "0:20",
+      "contact_number": "555-222-2222",
+      "serial_number": "c49kn8y924",
+      "software_version": "2.1",
+      "new_version_available": "2.5",
+      "next_update": "10/01/22",
+      "dtc_code": "1234",
+      "mower_speed": "2",
+      "mower_blade_speed": "High",
+      "blade_status": "ON",
+      "last_day_used": "07/13/2022",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "ad0b8ca8-b956-401a-93fb-6c817eda77t5",
+      "state": "ON",
+      "name": "Mower 5",
+      "coordinates": {
+        "lat": 39.131230931774446,
+        "lng": -86.49153677899292
+      },
+      "crew": {
+        "name": "Crew 55",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "DRIVING",
+      "total_battery_charge": 22,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 22,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 22,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 22,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 22,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 22,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2022-05-21T09:06:02Z",
+      "daily_cut_time": "3:47",
+      "daily_run_time": "04:02",
+      "daily_idle_time": "0:15",
+      "contact_number": "555-222-2222",
+      "serial_number": "m876r57684",
+      "software_version": "2.1",
+      "new_version_available": "2.5",
+      "next_update": "10/01/22",
+      "dtc_code": "",
+      "mower_speed": "1",
+      "mower_blade_speed": "High",
+      "blade_status": "ON",
+      "last_day_used": "07/14/2022",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "hkb8ca8-b566-401a-93fb-6c817edau679",
+      "state": "ON",
+      "name": "Mower 6",
+      "coordinates": {
+        "lat": 39.131268762736894,
+        "lng": -86.49148313481264
+      },
+      "crew": {
+        "name": "Crew 66",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "OFFLINE",
+      "mower_icon": "",
+      "mower_status": "LOW BATTERY",
+      "total_battery_charge": 4,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 4,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 4,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 4,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 4,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 4,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2022-05-21T09:12:02Z",
+      "daily_cut_time": "1:47",
+      "daily_run_time": "01:57",
+      "daily_idle_time": "0:10",
+      "contact_number": "555-222-2222",
+      "serial_number": "g592k77543",
+      "software_version": "2.1",
+      "new_version_available": "2.5",
+      "next_update": "10/01/22",
+      "dtc_code": "",
+      "mower_speed": "5",
+      "mower_blade_speed": "",
+      "blade_status": "OFF",
+      "last_day_used": "07/14/2022",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "3709ff7e-1744-47ad-96bf-e2f91d3yyyyy",
+      "state": "OFF",
+      "name": "E Mow",
+      "coordinates": {
+        "lat": 42.55733934530522,
+        "lng": -88.46666644980935
+      },
+      "crew": {
+        "name": "edhill 1",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "",
+      "total_battery_charge": 100,
+      "total_battery_state": "PLUGIN",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 100,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "2",
+          "battery_charge": 100,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "3",
+          "battery_charge": 100,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "4",
+          "battery_charge": 100,
+          "battery_state": "CHARGING"
+        },
+        {
+          "id": "5",
+          "battery_charge": 100,
+          "battery_state": "CHARGING"
+        }
+      ],
+      "last_refresh": "2022-08-05T01:05:00Z",
+      "daily_cut_time": "16:20",
+      "daily_run_time": "24:00",
+      "daily_idle_time": "7:40",
+      "contact_number": "123-456-7890",
+      "serial_number": "a11f879087",
+      "software_version": "2.0",
+      "new_version_available": "2.5",
+      "next_update": "10/01/22",
+      "dtc_code": "200",
+      "mower_speed": "",
+      "mower_blade_speed": "",
+      "blade_status": "",
+      "last_day_used": "09/01/2022",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "3709ff7e-1rt4-47ad-96bf-e2f91d39g8y7",
+      "state": "ON",
+      "name": "c.mow",
+      "coordinates": {
+        "lat": 42.55733934530522,
+        "lng": -88.46666644980935
+      },
+      "crew": {
+        "name": "1.0 Em Hill",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "MOWING",
+      "total_battery_charge": 25,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 25,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 25,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 25,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 25,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 25,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2022-08-05T12:06:11Z",
+      "daily_cut_time": "7:11",
+      "daily_run_time": "07:39",
+      "daily_idle_time": "00:28",
+      "contact_number": "123-456-7890",
+      "serial_number": "a11f873243",
+      "software_version": "2.0",
+      "new_version_available": "2.5",
+      "next_update": "10/01/22",
+      "dtc_code": "",
+      "mower_speed": "1",
+      "mower_blade_speed": "MEDIUM",
+      "blade_status": "ON",
+      "last_day_used": "09/1/2022",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "3709ff7e-1744-66ad-96bf-e2f91d39g8y7",
+      "state": "ON",
+      "name": "1. Mow",
+      "coordinates": {
+        "lat": 42.55733934530522,
+        "lng": -88.46666644980935
+      },
+      "crew": {
+        "name": "em.hill",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "IDLE",
+      "total_battery_charge": 99,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 99,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 99,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 99,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 99,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 99,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2022-09-01T13:55:22Z",
+      "daily_cut_time": "8:37",
+      "daily_run_time": "09:51",
+      "daily_idle_time": "1:14",
+      "contact_number": "123-456-7890",
+      "serial_number": "a12f879712",
+      "software_version": "1.0",
+      "new_version_available": "2.0",
+      "next_update": "05/01/22",
+      "dtc_code": "3311",
+      "mower_speed": "5",
+      "mower_blade_speed": "HIGH",
+      "blade_status": "ON",
+      "last_day_used": "08/27/2022",
+      "mower_position": "Sit"
+    },
+    {
+      "id": "3709ff7e-1214-47ad-96bf-e2f91d39g8y7",
+      "state": "ON",
+      "name": "1 Mow",
+      "coordinates": {
+        "lat": 43.0698277077142,
+        "lng": -89.41247732935425
+      },
+      "crew": {
+        "name": "*E Hill",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "DRIVING",
+      "total_battery_charge": 12,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 12,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 12,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 12,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 12,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 12,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2022-07-05T09:00:32Z",
+      "daily_cut_time": "9:49",
+      "daily_run_time": "11:50",
+      "daily_idle_time": "2:01",
+      "contact_number": "123-456-7890",
+      "serial_number": "a11f879x33",
+      "software_version": "1.0",
+      "new_version_available": "2.0",
+      "next_update": "05/01/22",
+      "dtc_code": "9999",
+      "mower_speed": "",
+      "mower_blade_speed": "",
+      "blade_status": "OFF",
+      "last_day_used": "07/14/2022",
+      "mower_position": "Stand"
+    },
+    {
+      "id": "3709ff7e-ff44-47ad-96bf-e2f91d39g8y7",
+      "state": "ON",
+      "name": "*Mow",
+      "coordinates": {
+        "lat": 43.0698277077142,
+        "lng": -89.41247732935425
+      },
+      "crew": {
+        "name": "ED HILL 1",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "MOWING",
+      "total_battery_charge": 71,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 71,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 71,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 71,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 71,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 71,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2022-01-01T04:44:42Z",
+      "daily_cut_time": "2:51",
+      "daily_run_time": "13:01",
+      "daily_idle_time": "10:10",
+      "contact_number": "123-456-7890",
+      "serial_number": "a14f8794r4",
+      "software_version": "2.0",
+      "new_version_available": "2.5",
+      "next_update": "10/01/22",
+      "dtc_code": "",
+      "mower_speed": "2",
+      "mower_blade_speed": "MEDIUM",
+      "blade_status": "ON",
+      "last_day_used": "06/01/2022",
+      "mower_position": "Stand"
+    },
+    {
+      "id": "3709ff7e-1mp4-47ad-96bf-e2f91d39g8y7",
+      "state": "ON",
+      "name": "1  Mow",
+      "coordinates": {
+        "lat": 43.0698277077142,
+        "lng": -89.41247732935425
+      },
+      "crew": {
+        "name": "1 Ed Hill",
+        "contact": "Tim McCarthy"
+      },
+      "network_status": "ONLINE",
+      "mower_icon": "",
+      "mower_status": "IDLE",
+      "total_battery_charge": 7,
+      "total_battery_state": "CHARGED",
+      "batteries": [
+        {
+          "id": "1",
+          "battery_charge": 7,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "2",
+          "battery_charge": 7,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "3",
+          "battery_charge": 100,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "4",
+          "battery_charge": 7,
+          "battery_state": "IN_USE"
+        },
+        {
+          "id": "5",
+          "battery_charge": 7,
+          "battery_state": "IN_USE"
+        }
+      ],
+      "last_refresh": "2022-09-01T13:55:22Z",
+      "daily_cut_time": "2:37",
+      "daily_run_time": "03:51",
+      "daily_idle_time": "1:14",
+      "contact_number": "123-456-7890",
+      "serial_number": "a12fuu9712",
+      "software_version": "1.0",
+      "new_version_available": "2.0",
+      "next_update": "05/01/22",
+      "dtc_code": "4997",
+      "mower_speed": "",
+      "mower_blade_speed": "",
+      "blade_status": "OFF",
+      "last_day_used": "05/27/2022",
+      "mower_position": "Sit"
+    }
+  ],
+  "battery": [
+    {
+      "id": "76c57ae7-77dc-425d-9f83-8da5c5c946cb",
+      "name": "A",
+      "status": "SLEEP",
+      "coordinates": {
+        "lat": 42.9082186,
+        "lng": -89.2227028
+      },
+      "last_refresh": "2022-05-18T07:03:25Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 100,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 001",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ423553984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.4",
+      "dtc_code": "123"
+    },
+    {
+      "id": "ebd8b0ab-7630-4d83-a850-b08a12ccaf67",
+      "name": "abcdef",
+      "status": "SLEEP",
+      "coordinates": {
+        "lat": 43.076134,
+        "lng": -89.379743
+      },
+      "last_refresh": "2023-06-01T21:55:02Z",
+      "network_status": "OFFLINE",
+      "total_battery_charge": 0,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew Name",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ66343984",
+      "software_version": "3.2",
+      "next_update": "07/01/22",
+      "new_version_available": "3.3",
+      "dtc_code": "1"
+    },
+    {
+      "id": "ec8a7283-08f3-4477-aaf2-c5a7629a6031",
+      "name": "123456",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 42.796984,
+        "lng": -89.63028523
+      },
+      "last_refresh": "2022-2-31T17:03:25Z",
+      "network_status": "OFFLINE",
+      "total_battery_charge": 4,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "1234567890",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ42377984",
+      "software_version": "3.0",
+      "next_update": "05/01/22",
+      "new_version_available": "3.3",
+      "dtc_code": "9099"
+    },
+    {
+      "id": "935dde8d-9ee5-463d-a2cc-13470dd0b5c9",
+      "name": "EXTRA",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 42.9082186,
+        "lng": -89.2227028
+      },
+      "last_refresh": "2024-02-29T17:03:25Z",
+      "network_status": "OFFLINE",
+      "total_battery_charge": 5,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "ABCDEFGHIJK",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ42348884",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "cb5673ac-8679-4268-b417-5a2d9e5159b1",
+      "name": "Bill's Battery",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 42.9082186,
+        "lng": -89.2227028
+      },
+      "last_refresh": "1996-09-08T10:26:10.727Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 80,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "Mister Mower",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ42993984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "79337ebd-2d69-404b-a0fb-5c0e01462409",
+      "name": "Spare",
+      "status": "SLEEP",
+      "coordinates": {
+        "lat": 41.949013,
+        "lng": -87.655086
+      },
+      "last_refresh": "2022-05-05T19:00:58.470Z",
+      "network_status": "OFFLINE",
+      "total_battery_charge": 79,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Green Grass",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ4y743984",
+      "software_version": "3.2",
+      "next_update": "07/01/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "f9eb7cb0-906e-4085-a75e-64095bb1cb9b",
+      "name": "Batt7",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 42.9082186,
+        "lng": -89.2227028
+      },
+      "last_refresh": "2022-05-01T14:53:28.039Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 22,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 007",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ42k83984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "9f1711e8-6783-4194-b49a-b816acf76csd",
+      "name": "batt8",
+      "status": "SLEEP",
+      "coordinates": {
+        "lat": 43.069765,
+        "lng": -89.413390
+      },
+      "last_refresh": "2022-12-16T05:53:58.376Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 39,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "Crew 008",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ4yy43984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "9f1711e8-6783-4194-b49a-b816acf76csc",
+      "name": "00500 ABC",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 43.069553,
+        "lng": -89.413443
+      },
+      "last_refresh": "2022-01-01T00:10:58.376Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 59,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "Crew 22",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ4238u984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "9f1711e8-6783-4194-b49a-b816acf76csb",
+      "name": "123ABC",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 43.069765,
+        "lng": -89.413390
+      },
+      "last_refresh": "2022-05-19T01:53:58.376Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 60,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "- Crew 22",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ42953984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "9f1711e8-6783-4194-b49a-b816acf76c88",
+      "name": "Battery9",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 43.070429,
+        "lng": -89.413352
+      },
+      "last_refresh": "2022-01-16T21:59:58.376Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 100,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 008",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ42u73984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "b63c0604-4950-490a-ad5e-9cc85310a020",
+      "name": "Battery 12",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 42.796984,
+        "lng": -89.63028523
+      },
+      "last_refresh": "2021-05-16T14:54:22.095Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 66,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 009",
+        "contact": "Todd Kelley",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ42343k84",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "76c57ae7-77dc-425d-9f83-8da5c5c953rt",
+      "name": "Battery 101",
+      "status": "SLEEP",
+      "coordinates": {
+        "lat": 39.1317886,
+        "lng": -86.4915846
+      },
+      "last_refresh": "2022-07-12T07:03:25Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 100,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "Crew 11",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ4kk43984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": "1001"
+    },
+    {
+      "id": "ebd8b0ab-7630-4d83-a850-b08a12ccyh88",
+      "name": "Battery 102",
+      "status": "SLEEP",
+      "coordinates": {
+        "lat": 39.1317886,
+        "lng": -86.4915846
+      },
+      "last_refresh": "2022-07-12T21:55:02Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 80,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "Crew 11",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ424r3984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "ec8a7283-08f3-4477-aaf2-c5a7629a9890",
+      "name": "Battery 103",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 39.1317886,
+        "lng": -86.4915846
+      },
+      "last_refresh": "2022-07-131T17:03:25Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 4,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 22",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJy6343984",
+      "software_version": "3.2",
+      "next_update": "07/01/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "935dde8d-9ee5-463d-a2cc-13470dd0hg78",
+      "name": "Battery 104",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 39.1317886,
+        "lng": -86.4915846
+      },
+      "last_refresh": "2022-07-10T17:03:25Z",
+      "network_status": "OFFLINE",
+      "total_battery_charge": 5,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 22",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJu7343984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "cb5673ac-8679-4268-b417-5a2d9e51hh9k",
+      "name": "Battery 105",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 39.144505,
+        "lng": -86.5334274
+      },
+      "last_refresh": "2022-07-13T10:26:10.727Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 80,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "Crew 33",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ4j843984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "79337ebd-2d69-404b-a0fb-5c0e01466789",
+      "name": "Battery 106",
+      "status": "SLEEP",
+      "coordinates": {
+        "lat": 39.144505,
+        "lng": -86.5334274
+      },
+      "last_refresh": "2022-07-10T19:00:58.470Z",
+      "network_status": "OFFLINE",
+      "total_battery_charge": 79,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "Crew 33",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ42ir3984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "f9eb7cb0-906e-4085-a75e-64095bb5hs34",
+      "name": "Battery 107",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 39.1445057,
+        "lng": -86.5334274
+      },
+      "last_refresh": "2022-07-01T14:53:28.039Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 100,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 33",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ7y343984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "9f1711e8-6783-4194-b49a-b816acf71ds3",
+      "name": "Battery 108",
+      "status": "SLEEP",
+      "coordinates": {
+        "lat": 39.1445057,
+        "lng": -86.5334274
+      },
+      "last_refresh": "2022-07-1T05:53:58.376Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 39,
+      "total_battery_state": "CHARGED",
+      "crew": {
+        "name": "Crew 33",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ4234m784",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "9f1711e8-6783-4194-b49a-b816acf73353",
+      "name": "Battery 109",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 39.185321,
+        "lng": -86.489505
+      },
+      "last_refresh": "2022-07-01T00:10:58.376Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 59,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 44",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ4u243984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "9f1711e8-6783-4194-b49a-b816acf71der",
+      "name": "Battery 110",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 39.186203,
+        "lng": -86.484498
+      },
+      "last_refresh": "2022-07-10T01:53:58.376Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 60,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 55",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ91343984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "9f1711e8-6783-4194-b49a-b816acf783d5",
+      "name": "Battery 111",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 39.186203,
+        "lng": -86.484498
+      },
+      "last_refresh": "2022-07-13T21:59:58.376Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 100,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 55",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ41143984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    },
+    {
+      "id": "b63c0604-4950-490a-ad5e-9cc85310z435",
+      "name": "Battery 112",
+      "status": "CHARGING",
+      "coordinates": {
+        "lat": 39.204072,
+        "lng": -86.532015
+      },
+      "last_refresh": "2022-06-16T14:54:22.095Z",
+      "network_status": "ONLINE",
+      "total_battery_charge": 66,
+      "total_battery_state": "PLUGIN",
+      "crew": {
+        "name": "Crew 66",
+        "contact": "Tim McCarthy",
+        "contact_number": "555-345-6789"
+      },
+      "battery_status": "Offboard",
+      "serial_number": "8ZJ1v343984",
+      "software_version": "3.3",
+      "next_update": "12/31/22",
+      "new_version_available": "3.3",
+      "dtc_code": ""
+    }
+  ]
+}
